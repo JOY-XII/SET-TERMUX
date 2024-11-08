@@ -23,9 +23,9 @@
    apt upgrade
    pkg install git
    pkg install python
-   git clone --depth=1 https://github.com/JOY-XII/Termux-Setup.git
-   cd Termux-Setup
-   python SETUP.py
+   git clone --depth=1 https://github.com/JOY-XII/SET-TERMUX.git
+   cd SET-TERMUX
+   python TERMUX-SET.py
    ```
  2. Short for second time:
  3. ````bash
