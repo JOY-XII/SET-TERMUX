@@ -34,4 +34,5 @@
     cd SET-TERMUX
     python TERMUX-SET.py
     ````
-    
+## Tool outlook 
+![Screenshot of the Script](Picsart_24-11-08_10-04-44-683.jpg)
